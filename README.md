@@ -24,8 +24,8 @@
 </br>
 </br>
 
-## Hello, Devs!!
-
+## Oi, Devs!!
+```
 Olá! 😊 Meu nome é Joicy Carolaine e sou uma entusiasta apaixonada por tecnologia. Como estudante, estou sempre ávida em busca de 
 conhecimento e desafios que me permitam crescer nessa área empolgante. Desde os meus 17 anos, o desenvolvimento tecnológico se tornou 
 uma paixão que me impulsiona a mergulhar cada vez mais fundo nesse mundo fascinante.
@@ -43,7 +43,7 @@ Essa linguagem tem me encantado e estou ansiosa para explorar suas aplicações 
 Acredito que essa combinação de habilidades no front-end, com o encanto de JavaScript, e a exploração das capacidades versáteis de Python, 
 abrirão novas oportunidades e desafios empolgantes em minha jornada no mundo da tecnologia. Estou animada para continuar aprimorando meus 
 conhecimentos e aplicando-os em projetos que possam fazer a diferença. 🚀🌟 ❤
-
+```
 </br>
 </br>
 
