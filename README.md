@@ -5,7 +5,6 @@
 </br>
 
 <div dsplay="inline-block">
-
     <h1 align="left">Joicy Carolaine</h1>
     <a href="https://www.instagram.com/joicycarolaine/">
         <img align="left" width="80px" src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"
@@ -75,13 +74,13 @@ conhecimentos e aplicando-os em projetos que possam fazer a diferença. 🚀🌟
 
 </br>
 </br>
+<br>
 <div display="inline-block">
     ## Interesses:
-
-    <p align="left">💻 Desenvolvimento: O mundo do desenvolvimento de software me fascina. Adoro criar soluções inovadoras e funcionais que possam impactar positivamente a vida das pessoas.;</p>
-    <p align="left">🎨 UX e UI: Além do desenvolvimento, tenho um forte interesse em User Experience (UX) e User Interface (UI). Acredito que a experiência do usuário é essencial para o sucesso de qualquer produto ou aplicação.;</p>
-    <p align="left">📚 Aprendizado Contínuo: Estou constantemente em busca de aprimorar meus conhecimentos, acompanhando as tendências e novidades da área de tecnologia e programação.</p>
-    <p align="left">📢 Compartilhamento de Conhecimento: Acredito que dividir o que aprendo com os demais é fundamental para o crescimento conjunto. Estou sempre disposta a compartilhar meu conhecimento com a comunidade.</p>
+    <p alidn="left">💻 Desenvolvimento: O mundo do desenvolvimento de software me fascina. Adoro criar soluções inovadoras e funcionais que possam impactar positivamente a vida das pessoas;</p>
+    <p align="left">🎨 UX e UI: Além do desenvolvimento, tenho um forte interesse em User Experience (UX) e User Interface (UI). Acredito que a experiência do usuário é essencial para o sucesso de qualquer produto ou aplicação;</p>
+    <p align="left">📚 Aprendizado Contínuo: Estou constantemente em busca de aprimorar meus conhecimentos, acompanhando as tendências e novidades da área de tecnologia e programação;</p>
+    <p align="left">📢 Compartilhamento de Conhecimento: Acredito que dividir o que aprendo com os demais é fundamental para o crescimento conjunto. Estou sempre disposta a compartilhar meu conhecimento com a comunidade;</p>
     <p align="left">🏐 Esportes: No meu tempo livre, gosto de praticar vôlei, mantendo o corpo em movimento e a mente revigorada.</p>
 </div>
 
@@ -91,17 +90,18 @@ conhecimentos e aplicando-os em projetos que possam fazer a diferença. 🚀🌟
 Quer conversar ou colaborar em algum projeto?
 <br>
 ## Fique à vontade para entrar em contato comigo através das seguintes plataformas:<img align="left" width="150" height="150" src="https://cdn.discordapp.com/attachments/1043264737389051915/1133124081072492645/Einstein.png"></a>
-📸 Instagram: <a href="https://www.instagram.com/joicycarolaine/"></a>
-📧 Email: <a href="mailto:jcarolaine05@gmail.com"></a>
-💼 LinkedIn: <a href="https://www.linkedin.com/in/joicy-carôlane-b46431278/">LinkedIn</a> 💼
-
-            <p align="center">
-                <a href="https://github.com/joicyCarolaine">
-                    <img height="180em"
-                        src="https://github-readme-stats-eight-theta.vercel.app/api?username=joicyCarolaine&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-                    <img height="180em"
-                        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joicyCarolaine&layout=compact&langs_count=8&theme=algolia" />
-                </a>
-            </p>
+📸     <a href="https://www.instagram.com/joicycarolaine">Instagram</a><br>
+📧    <a href="mailto:jcarolaine05@gmail.com">Email</a><br>
+💼     <a href="https://www.linkedin.com/in/joicy-carôlane-b46431278/">LinkedIn</a><br>
 
 Vamos aprender e crescer juntos! 🚀🌟
+<br>
+
+<p align="center">
+    <a href="https://github.com/joicyCarolaine">
+        <img height="180em"
+            src="https://github-readme-stats-eight-theta.vercel.app/api?username=joicyCarolaine&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+        <img height="180em"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joicyCarolaine&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
+</p>
