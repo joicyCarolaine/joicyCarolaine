@@ -90,10 +90,10 @@ animada para continuar aprimorando meus conhecimentos e aplicando-os em projetos
 
 ## Quer conversar ou colaborar em algum projeto? Fique à vontade para entrar em contato comigo através das seguintes plataformas:
  
-## Encontre-me na web 🌎:<img align="left" width="150" height="150" src="https://cdn.discordapp.com/attachments/1043264737389051915/1133124081072492645/Einstein.png"></a>
+<img align="left" width="150" height="150" src="https://cdn.discordapp.com/attachments/1043264737389051915/1133124081072492645/Einstein.png"></a>
 - Siga-me no  <a href="https://www.instagram.com/joicycarolaine/">Instagram</a> 📸 
-- Me mande uma mensagem <a href="https://codepen.io/elias-henrique"> Email</a> 📧
-- Compartilhamento de atualizações em <a href="https://www.linkedin.com/in/joicy-carôlane-b46431278/">Linkedin</a> 💼
+- Me mande um <a href="https://codepen.io/elias-henrique"> Email</a> 📧
+- Encontre-me no <a href="https://www.linkedin.com/in/joicy-carôlane-b46431278/">Linkedin</a> 💼
 
 ## Vamos aprender e crescer juntos! 🚀🌟
 <br>
