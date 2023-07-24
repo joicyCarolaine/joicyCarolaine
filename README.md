@@ -73,9 +73,10 @@ animada para continuar aprimorando meus conhecimentos e aplicando-os em projetos
 
 </br>
 </br>
-<br>
+
+## Interesses:
+
 <div display="inline-block">
-    ## Interesses:
     <p alidn="left">💻 Desenvolvimento: O mundo do desenvolvimento de software me fascina. Adoro criar soluções inovadoras e funcionais que possam impactar positivamente a vida das pessoas;</p>
     <p align="left">🎨 UX e UI: Além do desenvolvimento, tenho um forte interesse em User Experience (UX) e User Interface (UI). Acredito que a experiência do usuário é essencial para o sucesso de qualquer produto ou aplicação;</p>
     <p align="left">📚 Aprendizado Contínuo: Estou constantemente em busca de aprimorar meus conhecimentos, acompanhando as tendências e novidades da área de tecnologia e programação;</p>
@@ -86,14 +87,15 @@ animada para continuar aprimorando meus conhecimentos e aplicando-os em projetos
 </br>
 </br>
 <br>
-Quer conversar ou colaborar em algum projeto?
-<br>
-## Fique à vontade para entrar em contato comigo através das seguintes plataformas:<img align="left" width="150" height="150" src="https://cdn.discordapp.com/attachments/1043264737389051915/1133124081072492645/Einstein.png"></a>
-📸     <a href="https://www.instagram.com/joicycarolaine">Instagram</a><br>
-📧    <a href="mailto:jcarolaine05@gmail.com">Email</a><br>
-💼     <a href="https://www.linkedin.com/in/joicy-carôlane-b46431278/">LinkedIn</a><br>
 
-Vamos aprender e crescer juntos! 🚀🌟
+## Quer conversar ou colaborar em algum projeto? Fique à vontade para entrar em contato comigo através das seguintes plataformas:
+ 
+## Encontre-me na web 🌎:<img align="left" width="150" height="150" src="https://cdn.discordapp.com/attachments/1043264737389051915/1133124081072492645/Einstein.png"></a>
+- Siga-me no  <a href="https://www.instagram.com/joicycarolaine/">Instagram</a> 📸 
+- Me mande uma mensagem <a href="https://codepen.io/elias-henrique"> Email</a> 📧
+- Compartilhamento de atualizações em <a href="https://www.linkedin.com/in/joicy-carôlane-b46431278/">Linkedin</a> 💼
+
+## Vamos aprender e crescer juntos! 🚀🌟
 <br>
 
 <p align="center">
