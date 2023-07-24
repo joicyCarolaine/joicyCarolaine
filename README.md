@@ -26,23 +26,23 @@
 
 ## Oi, Devs!!
 ```
-Olá! 😊 Meu nome é Joicy Carolaine e sou uma entusiasta apaixonada por tecnologia. Como estudante, estou sempre ávida em busca de 
-conhecimento e desafios que me permitam crescer nessa área empolgante. Desde os meus 17 anos, o desenvolvimento tecnológico se tornou 
-uma paixão que me impulsiona a mergulhar cada vez mais fundo nesse mundo fascinante.
+Sou uma entusiasta apaixonada por tecnologia. Como estudante, estou sempre ávida embusca de conhecimentoe desafios
+que me permitam crescer nessa área empolgante.Desde os meus 17 anos, o desenvolvimentotecnológico se tornou uma paixão
+que me impulsiona a mergulhar cada vez mais fundo nesse mundo fascinante.
 
-Gosto de atuar tanto no front-end quanto no back-end dos projetos, pois acredito que ambas as áreas têm seus desafios e recompensas 
-únicas. No entanto, devo admitir que o front-end tem um lugar especial em meu coração. Adoro a arte de criar interfaces interativas e 
-visualmente atraentes, que proporcionam uma experiência excepcional ao usuário.
+Gosto de atuar tanto no front-end quanto no back-end dos projetos, pois acredito que ambas as áreas têm seus desafios e
+recompensas únicas. No entanto, devo admitir que o front-end tem um lugar especial em meu coração. Adoro a arte de criar
+interfaces interativas e visualmente atraentes, que proporcionam uma experiência excepcional ao usuário.
 
-A linguagem de programação que mais me encanta é JavaScript ☕. Com ela, posso dar vida a aplicativos web dinâmicos e envolventes, o que 
-me motiva a explorar constantemente novas possibilidades e recursos.
+A linguagem de programação que mais me encanta é JavaScript ☕. Com ela, posso dar vida a aplicativos web dinâmicos e
+envolventes, o que me motiva a explorar constantemente novas possibilidades e recursos.
 
-Além disso, recentemente iniciei meu aprendizado em Python 🐍 e estou completamente surpresa com sua versatilidade e facilidade de uso. 
-Essa linguagem tem me encantado e estou ansiosa para explorar suas aplicações em projetos futuros.
+Além disso, recentemente iniciei meu aprendizado em Python 🐍 e estou completamente surpresa com sua versatilidade e
+facilidade de uso. Essa linguagem tem me encantado e estou ansiosa para explorar suas aplicações em projetos futuros.
 
-Acredito que essa combinação de habilidades no front-end, com o encanto de JavaScript, e a exploração das capacidades versáteis de Python, 
-abrirão novas oportunidades e desafios empolgantes em minha jornada no mundo da tecnologia. Estou animada para continuar aprimorando meus 
-conhecimentos e aplicando-os em projetos que possam fazer a diferença. 🚀🌟 ❤
+Acredito que essa combinação de habilidades no front-end, com o encanto de JavaScript, e a exploração das capacidades
+versáteis de Python, abrirão novas oportunidades e desafios empolgantes em minha jornada no mundo da tecnologia. Estou
+animada para continuar aprimorando meus conhecimentos e aplicando-os em projetos que possam fazer a diferença. 🚀🌟 
 ```
 </br>
 </br>
@@ -70,7 +70,6 @@ conhecimentos e aplicando-os em projetos que possam fazer a diferença. 🚀🌟
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
         title="Tailwindcss" /></code>
     
-
 
 </br>
 </br>
