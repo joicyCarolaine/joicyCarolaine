@@ -1,5 +1,5 @@
 <img align="right" width="250px" style="margin-top:-20px"
-    src="https://o.remove.bg/downloads/d350fc71-d3c2-4b20-81b8-e0881374b375/img03-removebg-preview.png"> 
+    src="https://cdn.discordapp.com/attachments/1133367376029691977/1133367441607635026/img03_1.png"> 
 
 </br>
 </br>
@@ -26,29 +26,21 @@
 
 ## Oi, Devs!!
 ```
-Sou uma entusiasta apaixonada por tecnologia. Como estudante, estou sempre ávida embusca de conhecimentoe desafios
-que me permitam crescer nessa área empolgante.Desde os meus 17 anos, o desenvolvimentotecnológico se tornou uma paixão
-que me impulsiona a mergulhar cada vez mais fundo nesse mundo fascinante.
+Sou uma entusiasta apaixonada por tecnologia. Como estudante, estou sempre ávida embusca de conhecimento
+e desafios que me permitam crescer nessa área empolgante. Desde os meus 17 anos, o desenvolvimentotecnológico
+se tornou uma paixão que me impulsiona a mergulhar cada vez mais fundo nesse mundo fascinante.
 
-Gosto de atuar tanto no front-end quanto no back-end dos projetos, pois acredito que ambas as áreas têm seus desafios e
-recompensas únicas. No entanto, devo admitir que o front-end tem um lugar especial em meu coração. Adoro a arte de criar
-interfaces interativas e visualmente atraentes, que proporcionam uma experiência excepcional ao usuário.
+Gosto de atuar tanto no front-end quanto no back-end dos projetos, pois acredito que ambas as áreas têm seus
+desafios e recompensas únicas. No entanto, devo admitir que o front-end tem um lugar especial em meu coração.
 
-A linguagem de programação que mais me encanta é JavaScript ☕. Com ela, posso dar vida a aplicativos web dinâmicos e
-envolventes, o que me motiva a explorar constantemente novas possibilidades e recursos.
-
-Além disso, recentemente iniciei meu aprendizado em Python 🐍 e estou completamente surpresa com sua versatilidade e
-facilidade de uso. Essa linguagem tem me encantado e estou ansiosa para explorar suas aplicações em projetos futuros.
-
-Acredito que essa combinação de habilidades no front-end, com o encanto de JavaScript, e a exploração das capacidades
-versáteis de Python, abrirão novas oportunidades e desafios empolgantes em minha jornada no mundo da tecnologia. Estou
-animada para continuar aprimorando meus conhecimentos e aplicando-os em projetos que possam fazer a diferença. 🚀🌟 
+Estou animada para continuar aprimorando meus conhecimentos e aplicando-os em projetos que possam fazer
+a diferença. 🚀🌟 
 ```
 </br>
 </br>
 
 ### 🖥️ Tecnologias e Ferramentas:
-<img width="300px" align="right" src="https://o.remove.bg/downloads/ecff135e-a4c3-459b-bd72-8018c6cc4e07/img01-removebg-preview.png">
+<img width="300px" align="right" src="https://cdn.discordapp.com/attachments/1133367376029691977/1133367824996384829/img01.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
         title="HTML5" /></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
