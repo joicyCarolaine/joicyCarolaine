@@ -30,8 +30,9 @@ Sou uma entusiasta apaixonada por tecnologia. Como estudante, estou sempre ávid
 e desafios que me permitam crescer nessa área empolgante. Desde os meus 17 anos, o desenvolvimento
 tecnológico se tornou uma paixão que me impulsiona a mergulhar cada vez mais fundo nesse mundo fascinante.
 
-Gosto de atuar tanto no front-end quanto no back-end dos projetos, pois acredito que ambas as áreas têm seus
-desafios e recompensas únicas. No entanto, devo admitir que o front-end tem um lugar especial em meu coração.
+Gosto de atuar tanto no front-end quanto no back-end dos projetos, pois acredito que ambas as áreas têm
+seus desafios e recompensas únicas. No entanto, devo admitir que o front-end tem um lugar especial em meu
+coração.
 
 Estou animada para continuar aprimorando meus conhecimentos e aplicando-os em projetos que possam fazer
 a diferença. 🚀🌟 
