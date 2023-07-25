@@ -27,8 +27,8 @@
 ## Oi, Devs!!
 ```
 Sou uma entusiasta apaixonada por tecnologia. Como estudante, estou sempre ávida embusca de conhecimento
-e desafios que me permitam crescer nessa área empolgante. Desde os meus 17 anos, o desenvolvimentotecnológico
-se tornou uma paixão que me impulsiona a mergulhar cada vez mais fundo nesse mundo fascinante.
+e desafios que me permitam crescer nessa área empolgante. Desde os meus 17 anos, o desenvolvimento
+tecnológico se tornou uma paixão que me impulsiona a mergulhar cada vez mais fundo nesse mundo fascinante.
 
 Gosto de atuar tanto no front-end quanto no back-end dos projetos, pois acredito que ambas as áreas têm seus
 desafios e recompensas únicas. No entanto, devo admitir que o front-end tem um lugar especial em meu coração.
