@@ -84,7 +84,7 @@ projetos que possam fazer a diferença. 🚀🌟
 
 ## Quer conversar ou colaborar em algum projeto? Fique à vontade para entrar em contato comigo através das seguintes plataformas:
  
-<img align="left" width="150" height="150" src="https://cdn.discordapp.com/attachments/1043265063592665150/1133026774691893269/octocat-1689947566498.png"></a>
+<img align="left" width="150" height="150" src="https://cdn.discordapp.com/attachments/1133367376029691977/1149761551717376090/octocat-1694194882184.png"></a>
 - Siga-me no  <a href="https://www.instagram.com/joicycarolaine/">Instagram</a> 📸 
 - Me mande um <a href="https://codepen.io/elias-henrique"> Email</a> 📧
 - Encontre-me no <a href="https://www.linkedin.com/in/joicy-carôlane-b46431278/">Linkedin</a> 💼
